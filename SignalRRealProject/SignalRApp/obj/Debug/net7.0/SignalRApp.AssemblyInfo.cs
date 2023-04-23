@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-SignalRApp-44d0a7bb-f9d9-4447-b875-c058593e7c3c")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SignalRApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]

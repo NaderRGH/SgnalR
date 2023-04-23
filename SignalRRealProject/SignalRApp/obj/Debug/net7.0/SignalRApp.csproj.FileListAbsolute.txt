@@ -83,3 +83,4 @@ E:\Dev\GitHub\SgnalR\SignalRRealProject\SignalRApp\obj\Debug\net7.0\refint\Signa
 E:\Dev\GitHub\SgnalR\SignalRRealProject\SignalRApp\obj\Debug\net7.0\SignalRApp.pdb
 E:\Dev\GitHub\SgnalR\SignalRRealProject\SignalRApp\obj\Debug\net7.0\SignalRApp.genruntimeconfig.cache
 E:\Dev\GitHub\SgnalR\SignalRRealProject\SignalRApp\obj\Debug\net7.0\ref\SignalRApp.dll
+E:\Dev\GitHub\SgnalR\SignalRRealProject\SignalRApp\bin\Debug\net7.0\libman.json
